@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="phone">PHONE</string>
+    <string name="country">COUNTRY</string>
+    <string name="state">STATE</string>
+    <string name="enter_phone_no">Enter Phone No.</string>
+    <string name="button">Button</string>
+</resources>

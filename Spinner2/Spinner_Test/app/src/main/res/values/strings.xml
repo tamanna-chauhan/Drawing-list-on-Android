@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spinner_Test</string>
+    <string name="country">COUNTRY</string>
+    <string name="state">STATE</string>
+    <string name="button">Button</string>
+    <string name="submit">SUBMIT</string>
+</resources>
